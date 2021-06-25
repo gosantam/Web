@@ -1,0 +1,7 @@
+ipywidgets==7.5.1
+ipython==5.5.0
+jupyter==1.0.0
+numpy==1.19.4
+voila==0.2.4
+matplotlib
+opencv-python-headless
